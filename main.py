@@ -26,4 +26,3 @@ ax.invert_yaxis()
 
 # Display the chart using Streamlit
 st.pyplot(fig)
-# balb bal blab
